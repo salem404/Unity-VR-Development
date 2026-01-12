@@ -41,7 +41,7 @@ MonoBehaviour:
   - 
   - 
   - 
-  - 
-  - 
+  - HouseModel
+  - Utils
   - Hats
   - Teleport
