@@ -1,0 +1,180 @@
+# Unity-specific ignores
+# ========================
+
+# Library, local, and build folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Log files
+*.log
+*.logs
+
+# Blender temporary files
+*.blend1
+*.blend1.meta
+
+# Asset store tools
+/[Aa]ssets/AssetStoreTools*
+
+# Jetbrains Rider
+/[Aa]ssets/Plugins/Editor/JetBrains*
+*.DotSettings.user
+.idea/
+.idea_modules/
+
+# Visual Studio cache
+.vs/
+.vscode/
+*.code-workspace
+
+# Gradle cache
+.gradle/
+
+# Build artifacts and project files
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity3D generated meta files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Crash reports
+sysinfo.txt
+mono_crash.*
+*.stacktrace
+
+# Builds and packages
+*.apk
+*.aab
+*.unitypackage
+*.unitypackage.meta
+*.unitypackage.backup
+*.app
+/Builds/
+
+# Crashlytics
+crashlytics-build.properties
+
+# Test runner
+InitTestScene*.unity*
+
+# Addressables
+/ServerData
+/[Aa]ssets/StreamingAssets/aa*
+/[Aa]ssets/AddressableAssetsData/link.xml*
+/[Aa]ssets/Addressables_Temp*
+/[Aa]ssets/AddressableAssetsData/*/*.bin*
+
+# Visual Scripting
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db.meta
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers.meta
+
+# OS-specific ignores
+# ========================
+
+# Windows
+Thumbs.db
+Thumbs.db.meta
+*.lnk
+*.exe
+*.lnk.meta
+Desktop.ini
+Desktop.ini.meta
+$RECYCLE.BIN/
+.DS_Store
+
+# macOS
+.DS_Store
+.DS_Store.meta
+.AppleDouble
+.LSOverride
+._*
+._*.meta
+.Spotlight-V100
+.Trashes
+Icon
+Icon.meta
+.DocumentRevisions-V100
+.fseventsd
+.TemporaryItems
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Linux
+.directory
+.directory.meta
+*~
+*~.meta
+.gvfs
+
+# IDE and Editor
+# ========================
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Rider
+.idea/
+.idea_modules/
+*.iml
+*.iws
+*.ipr
+
+# Xcode
+xcuserdata/
+*.xcworkspace/xcuserdata/
+
+# MonoDevelop / Unitydev generated files
+*.prefs.meta
+ExportedObj/
+mono_crash.*
+
+# Miscellaneous
+# ========================
+
+*.swp
+*.swo
+*~
+.project
+.project.meta
+.pydevproject
+.pydevproject.meta
+.settings
+.settings.meta
+*.sublime-workspace
+*.sublime-workspace.meta
+.vscode/
+.vscode.meta
+
+# Node.js
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Local development
+[Ll]ocal/
