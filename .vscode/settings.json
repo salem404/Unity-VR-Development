@@ -1,3 +1,4 @@
 {
-    "dotnet.preferCSharpExtension": true
+    "dotnet.preferCSharpExtension": true,
+    "dotnet.defaultSolution": "Create-with-VR_U6/VR Room - salem404/VR Room - salem404.sln"
 }
