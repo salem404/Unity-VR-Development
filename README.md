@@ -1,6 +1,7 @@
 <div align="center">
   <h1 align="center">Unity VR Development</h1>
   <img src="https://img.shields.io/badge/Asignatura-Realidad_virtual_y_realidad_aumentada-ecece0?style=for-the-badge" alt="Asignatura: Realidad Virtual y Realidad Aumentada">
+
 </div>
 
 ## Tabla de contenido
@@ -13,6 +14,12 @@
 ## Descripción
 
 Este repositorio contiene el proyecto de Unity Learn dedicado a la creación de aplicaciones de Realidad Virtual.
+
+
+
+https://github.com/user-attachments/assets/3cdd6ddf-0fff-4b61-95c8-68121606179b
+
+
 
 ## Herramientas utilizadas
 
